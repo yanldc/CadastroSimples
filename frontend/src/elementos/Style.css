@@ -1,0 +1,49 @@
+header{
+    background: linear-gradient(58.15deg, #191970 16.62%, #FF00FF 96.61%);
+    background-position: static;
+    border: 1px solid black;
+    -webkit-box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    -moz-box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    min-height: 10vh;
+}
+
+body {
+    background:white;
+    background-position: static;
+}
+
+
+.cabecalho{
+    margin-top: 0px;
+    text-align: center;
+    padding: 1vw;
+    background-color: white;
+    border: 1px solid black;
+    -webkit-box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    -moz-box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+}
+
+.formulario{
+    margin-inline: 5vw;
+    padding: 4vw 3vw;
+    background-color: white;
+    border: 1px solid black;
+    -webkit-box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    -moz-box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+}
+
+.inicio {
+    margin-inline: 30vw;
+    padding: 1vw;
+    background-color: white;
+    border: 1px solid black;
+    -webkit-box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    -moz-box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    box-shadow: 7px 7px 19px -3px rgba(0,0,0,0.53);
+    display: flex;
+    justify-content: space-around; 
+  }
+
